@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ngx-no-console works!';
+
+  constructor() {
+    console.log('dewdew');
+  }
+
 }
