@@ -4,9 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to use:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
-
-
 Import `NoConsoleModule` to your project and provide your environment config:
 
 `NoConsoleModule.forRoot({ env: 'prod' })`
